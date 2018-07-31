@@ -1,0 +1,16 @@
+h1{
+  text-decoration: underline;
+}
+
+ul {
+  font-family: arial;
+  color: #33ABFF;
+}
+
+em {
+  background-color: purple;
+}
+
+img {
+  opacity: 0.7;
+}
