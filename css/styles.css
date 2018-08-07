@@ -12,5 +12,10 @@ em {
 }
 
 img {
-  opacity: 0.7;
+  opacity: 0.9;
+}
+
+.dark-background {
+  background-color: black;
+  color: white;
 }
